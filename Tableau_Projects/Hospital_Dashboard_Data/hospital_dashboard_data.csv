@@ -1,0 +1,201 @@
+Patient_ID,Visit_Date,Visit_Type,Department,Doctor_Name,Consultation_Time (mins),Bed_Availability (%),Wait_Time (mins),Patient_Satisfaction (1-5),Readmission (Yes/No),Total_Patients
+1,2024-03-03,Scheduled,General Medicine,Dr. Wilson,36,65.47,49,2,Yes,188
+2,2024-03-09,Scheduled,General Medicine,Dr. Smith,45,53.83,29,1,No,109
+3,2024-03-13,Emergency,General Medicine,Dr. Johnson,19,57.28,51,4,Yes,141
+4,2024-03-14,Emergency,Pediatrics,Dr. Brown,21,53.56,54,4,No,96
+5,2024-03-07,Scheduled,Orthopedics,Dr. Brown,42,93.25,18,4,Yes,177
+6,2024-03-14,Scheduled,Orthopedics,Dr. Wilson,20,69.3,46,1,Yes,189
+7,2024-03-20,Scheduled,Neurology,Dr. Smith,15,64.67,43,2,Yes,183
+8,2024-03-08,Scheduled,Neurology,Dr. Brown,6,62.16,5,1,No,138
+9,2024-03-01,Emergency,Neurology,Dr. Smith,13,62.25,19,3,Yes,154
+10,2024-03-30,Scheduled,Pediatrics,Dr. Johnson,13,99.98,41,2,No,162
+11,2024-03-20,Emergency,General Medicine,Dr. Wilson,18,99.87,92,3,Yes,124
+12,2024-03-30,Emergency,Neurology,Dr. Wilson,33,88.39,54,4,Yes,67
+13,2024-03-27,Scheduled,General Medicine,Dr. Johnson,43,52.15,39,5,No,198
+14,2024-03-07,Emergency,Neurology,Dr. Brown,29,92.06,118,3,Yes,170
+15,2024-03-17,Emergency,Orthopedics,Dr. Smith,45,68.24,59,3,No,100
+16,2024-03-21,Emergency,Neurology,Dr. Smith,22,92.38,37,1,Yes,109
+17,2024-03-05,Emergency,Neurology,Dr. Davis,22,58.22,27,2,Yes,108
+18,2024-03-23,Scheduled,Orthopedics,Dr. Davis,30,63.81,28,1,Yes,167
+19,2024-03-30,Scheduled,Neurology,Dr. Smith,40,61.33,41,3,No,171
+20,2024-03-31,Emergency,Cardiology,Dr. Smith,13,67.87,52,1,No,161
+21,2024-03-24,Scheduled,General Medicine,Dr. Davis,14,57.65,40,3,Yes,115
+22,2024-03-22,Scheduled,Orthopedics,Dr. Davis,15,75.82,41,2,No,132
+23,2024-03-29,Scheduled,General Medicine,Dr. Davis,36,85.94,47,3,No,140
+24,2024-03-30,Scheduled,Neurology,Dr. Smith,25,74.84,18,3,No,76
+25,2024-03-18,Scheduled,Neurology,Dr. Smith,19,96.53,33,1,No,92
+26,2024-03-24,Scheduled,Cardiology,Dr. Davis,45,81.67,60,3,Yes,133
+27,2024-03-19,Scheduled,Orthopedics,Dr. Brown,33,95.2,45,1,Yes,62
+28,2024-03-09,Emergency,Pediatrics,Dr. Wilson,28,67.62,76,1,Yes,147
+29,2024-03-20,Scheduled,Pediatrics,Dr. Brown,44,54.73,36,5,Yes,193
+30,2024-03-18,Emergency,Pediatrics,Dr. Brown,28,86.82,31,4,No,187
+31,2024-03-26,Scheduled,Neurology,Dr. Davis,14,99.36,27,5,No,76
+32,2024-03-07,Scheduled,Pediatrics,Dr. Johnson,12,76.51,51,2,No,97
+33,2024-03-25,Scheduled,Orthopedics,Dr. Smith,5,88.6,46,5,Yes,143
+34,2024-03-20,Scheduled,General Medicine,Dr. Smith,7,85.12,18,2,Yes,191
+35,2024-03-15,Emergency,Cardiology,Dr. Brown,10,63.97,81,5,Yes,174
+36,2024-03-07,Scheduled,Orthopedics,Dr. Smith,6,85.04,54,1,No,181
+37,2024-03-13,Scheduled,Neurology,Dr. Smith,13,73.18,49,2,Yes,139
+38,2024-03-01,Emergency,Cardiology,Dr. Wilson,33,83.46,109,1,Yes,86
+39,2024-03-13,Emergency,Neurology,Dr. Wilson,31,81.25,98,5,Yes,104
+40,2024-03-25,Scheduled,Neurology,Dr. Smith,25,58.29,48,1,Yes,146
+41,2024-03-17,Scheduled,Pediatrics,Dr. Brown,40,60.36,44,4,Yes,128
+42,2024-03-13,Emergency,Neurology,Dr. Smith,6,52.25,24,4,No,190
+43,2024-03-30,Scheduled,Cardiology,Dr. Davis,5,68.8,39,2,No,69
+44,2024-03-07,Emergency,Pediatrics,Dr. Wilson,11,69.71,75,5,No,183
+45,2024-03-08,Scheduled,Pediatrics,Dr. Davis,41,66.16,8,4,No,123
+46,2024-03-28,Emergency,Pediatrics,Dr. Wilson,19,53.38,79,5,No,180
+47,2024-03-23,Emergency,Orthopedics,Dr. Johnson,39,92.43,71,3,No,78
+48,2024-03-21,Scheduled,Pediatrics,Dr. Davis,7,78.05,11,5,No,166
+49,2024-03-10,Scheduled,Pediatrics,Dr. Davis,13,57.05,15,5,No,180
+50,2024-03-31,Scheduled,Orthopedics,Dr. Wilson,27,74.28,9,2,No,167
+51,2024-03-14,Emergency,Cardiology,Dr. Davis,30,72.65,6,4,No,75
+52,2024-03-23,Emergency,Pediatrics,Dr. Davis,21,56.35,23,3,Yes,105
+53,2024-03-28,Scheduled,Cardiology,Dr. Johnson,39,51.96,30,2,Yes,97
+54,2024-03-15,Scheduled,Orthopedics,Dr. Wilson,30,52.51,58,3,Yes,86
+55,2024-03-04,Emergency,General Medicine,Dr. Smith,15,97.05,17,4,Yes,124
+56,2024-03-04,Scheduled,Neurology,Dr. Brown,35,73.87,48,4,No,58
+57,2024-03-07,Emergency,Orthopedics,Dr. Brown,10,76.59,74,5,No,189
+58,2024-03-13,Scheduled,General Medicine,Dr. Davis,14,91.63,60,5,No,151
+59,2024-03-31,Emergency,Cardiology,Dr. Davis,26,79.23,59,1,No,118
+60,2024-03-19,Emergency,Orthopedics,Dr. Smith,35,54.23,69,1,No,177
+61,2024-03-13,Emergency,Orthopedics,Dr. Smith,42,70.94,112,1,Yes,145
+62,2024-03-08,Scheduled,Neurology,Dr. Wilson,16,85.23,21,4,Yes,83
+63,2024-03-19,Scheduled,Neurology,Dr. Brown,20,69.51,47,2,No,179
+64,2024-03-22,Scheduled,General Medicine,Dr. Brown,11,65.64,6,4,No,196
+65,2024-03-19,Emergency,Orthopedics,Dr. Smith,36,79.5,23,3,Yes,62
+66,2024-03-28,Scheduled,Pediatrics,Dr. Smith,18,94.62,28,2,Yes,101
+67,2024-03-14,Scheduled,Neurology,Dr. Wilson,38,81.31,23,5,No,151
+68,2024-03-07,Scheduled,Cardiology,Dr. Wilson,44,62.92,54,3,Yes,137
+69,2024-03-31,Emergency,General Medicine,Dr. Brown,42,69.92,95,4,No,83
+70,2024-03-03,Scheduled,Pediatrics,Dr. Johnson,25,71.08,59,3,Yes,163
+71,2024-03-10,Emergency,Neurology,Dr. Davis,25,71.59,98,2,Yes,128
+72,2024-03-06,Scheduled,General Medicine,Dr. Davis,26,52.9,24,4,No,146
+73,2024-03-29,Emergency,Neurology,Dr. Wilson,43,86.62,120,2,No,108
+74,2024-03-07,Scheduled,Neurology,Dr. Davis,19,53.49,11,3,No,143
+75,2024-03-21,Scheduled,Pediatrics,Dr. Wilson,18,87.69,25,3,No,108
+76,2024-03-29,Emergency,Orthopedics,Dr. Davis,14,57.74,15,2,No,137
+77,2024-03-14,Emergency,Neurology,Dr. Johnson,32,56.31,51,4,Yes,110
+78,2024-03-11,Scheduled,General Medicine,Dr. Smith,32,73.61,50,5,Yes,189
+79,2024-03-14,Scheduled,Orthopedics,Dr. Wilson,11,58.96,59,4,No,189
+80,2024-03-20,Scheduled,Cardiology,Dr. Johnson,32,60.95,55,2,No,199
+81,2024-03-28,Scheduled,General Medicine,Dr. Smith,22,75.53,37,3,No,175
+82,2024-03-21,Scheduled,General Medicine,Dr. Davis,38,95.35,12,4,No,180
+83,2024-03-04,Emergency,Cardiology,Dr. Johnson,14,88.91,10,1,Yes,99
+84,2024-03-11,Scheduled,Orthopedics,Dr. Davis,26,82.97,35,3,Yes,135
+85,2024-03-26,Emergency,Orthopedics,Dr. Davis,45,66.42,80,3,No,190
+86,2024-03-08,Scheduled,General Medicine,Dr. Wilson,20,80.97,32,1,No,200
+87,2024-03-02,Emergency,General Medicine,Dr. Johnson,5,86.64,6,3,Yes,174
+88,2024-03-27,Emergency,Orthopedics,Dr. Johnson,8,56.0,78,5,Yes,149
+89,2024-03-17,Scheduled,General Medicine,Dr. Johnson,36,99.22,50,4,Yes,106
+90,2024-03-02,Emergency,Orthopedics,Dr. Smith,45,99.05,113,3,No,99
+91,2024-03-18,Scheduled,Neurology,Dr. Johnson,33,70.66,14,4,No,95
+92,2024-03-20,Emergency,Orthopedics,Dr. Smith,8,96.78,60,2,No,94
+93,2024-03-16,Scheduled,Cardiology,Dr. Smith,35,86.47,23,4,Yes,151
+94,2024-03-01,Emergency,Orthopedics,Dr. Wilson,33,62.99,17,5,No,57
+95,2024-03-22,Scheduled,Orthopedics,Dr. Brown,13,64.92,43,1,No,52
+96,2024-03-03,Emergency,Neurology,Dr. Brown,26,77.36,37,5,No,190
+97,2024-03-16,Scheduled,Pediatrics,Dr. Smith,15,63.9,13,3,No,106
+98,2024-03-12,Emergency,General Medicine,Dr. Davis,27,51.65,66,4,No,130
+99,2024-03-17,Scheduled,Cardiology,Dr. Davis,25,76.9,38,4,Yes,152
+100,2024-03-19,Scheduled,General Medicine,Dr. Wilson,36,80.59,16,2,No,172
+101,2024-03-23,Scheduled,General Medicine,Dr. Brown,31,81.58,57,2,Yes,179
+102,2024-03-05,Scheduled,Neurology,Dr. Smith,6,90.59,22,1,No,68
+103,2024-03-19,Scheduled,Neurology,Dr. Wilson,18,95.83,49,4,Yes,137
+104,2024-03-12,Scheduled,Neurology,Dr. Davis,6,78.03,17,3,No,189
+105,2024-03-29,Emergency,Cardiology,Dr. Davis,12,96.49,58,3,Yes,173
+106,2024-03-07,Scheduled,Cardiology,Dr. Wilson,19,76.06,17,2,Yes,118
+107,2024-03-01,Emergency,Pediatrics,Dr. Davis,12,74.18,53,3,Yes,53
+108,2024-03-15,Emergency,Pediatrics,Dr. Davis,32,67.64,56,5,No,105
+109,2024-03-14,Emergency,Pediatrics,Dr. Brown,43,50.38,16,4,No,56
+110,2024-03-03,Scheduled,Cardiology,Dr. Johnson,13,50.27,42,2,Yes,146
+111,2024-03-04,Scheduled,Orthopedics,Dr. Davis,23,64.33,12,4,No,75
+112,2024-03-26,Scheduled,Neurology,Dr. Johnson,15,52.05,57,3,Yes,50
+113,2024-03-03,Emergency,Cardiology,Dr. Smith,41,82.03,12,3,No,127
+114,2024-03-04,Emergency,Pediatrics,Dr. Davis,17,96.3,74,2,No,172
+115,2024-03-05,Scheduled,Pediatrics,Dr. Wilson,24,63.29,50,2,No,137
+116,2024-03-16,Scheduled,Orthopedics,Dr. Smith,44,72.73,7,1,Yes,182
+117,2024-03-08,Emergency,General Medicine,Dr. Johnson,25,83.97,78,1,Yes,185
+118,2024-03-19,Emergency,Neurology,Dr. Johnson,36,52.36,10,1,No,136
+119,2024-03-11,Emergency,Neurology,Dr. Johnson,14,99.38,82,2,Yes,144
+120,2024-03-07,Emergency,Neurology,Dr. Brown,44,73.0,47,2,No,158
+121,2024-03-05,Emergency,Neurology,Dr. Johnson,9,66.42,120,3,No,183
+122,2024-03-29,Scheduled,Cardiology,Dr. Wilson,20,79.51,57,5,Yes,196
+123,2024-03-04,Scheduled,Neurology,Dr. Wilson,39,64.02,16,1,No,164
+124,2024-03-31,Scheduled,Orthopedics,Dr. Davis,6,73.87,54,2,No,163
+125,2024-03-18,Emergency,Pediatrics,Dr. Davis,24,53.1,59,3,No,139
+126,2024-03-13,Emergency,Pediatrics,Dr. Johnson,34,70.53,50,4,Yes,86
+127,2024-03-04,Scheduled,General Medicine,Dr. Johnson,28,89.87,43,4,No,177
+128,2024-03-23,Emergency,Pediatrics,Dr. Smith,44,93.54,79,5,Yes,136
+129,2024-03-05,Scheduled,Cardiology,Dr. Smith,41,97.81,47,2,No,181
+130,2024-03-18,Emergency,General Medicine,Dr. Johnson,41,74.82,29,5,No,105
+131,2024-03-22,Emergency,Neurology,Dr. Smith,17,57.47,24,5,No,187
+132,2024-03-22,Emergency,Pediatrics,Dr. Davis,29,88.61,112,2,No,168
+133,2024-03-17,Emergency,Cardiology,Dr. Smith,43,82.58,47,1,Yes,198
+134,2024-03-12,Scheduled,General Medicine,Dr. Davis,17,87.59,55,2,No,71
+135,2024-03-24,Emergency,Cardiology,Dr. Davis,21,96.09,85,2,No,84
+136,2024-03-22,Scheduled,Pediatrics,Dr. Brown,24,55.81,44,3,No,195
+137,2024-03-10,Scheduled,General Medicine,Dr. Johnson,34,51.11,33,2,Yes,75
+138,2024-03-22,Scheduled,Neurology,Dr. Davis,45,84.97,23,1,Yes,107
+139,2024-03-11,Scheduled,Pediatrics,Dr. Wilson,15,99.21,48,3,Yes,162
+140,2024-03-11,Scheduled,Neurology,Dr. Brown,11,90.68,54,2,Yes,200
+141,2024-03-13,Emergency,Neurology,Dr. Davis,9,73.61,29,4,No,199
+142,2024-03-17,Emergency,Cardiology,Dr. Wilson,39,71.95,10,1,Yes,192
+143,2024-03-22,Scheduled,Cardiology,Dr. Johnson,34,96.45,52,2,Yes,138
+144,2024-03-17,Scheduled,Cardiology,Dr. Smith,12,53.35,59,2,Yes,145
+145,2024-03-02,Emergency,General Medicine,Dr. Brown,30,67.77,30,4,Yes,60
+146,2024-03-19,Scheduled,General Medicine,Dr. Brown,35,72.85,58,2,Yes,105
+147,2024-03-09,Scheduled,General Medicine,Dr. Davis,24,93.85,38,2,Yes,156
+148,2024-03-09,Emergency,Cardiology,Dr. Smith,11,64.36,57,4,No,53
+149,2024-03-03,Scheduled,Cardiology,Dr. Davis,41,88.72,56,5,Yes,61
+150,2024-03-02,Scheduled,Cardiology,Dr. Smith,18,66.29,45,2,Yes,185
+151,2024-03-06,Scheduled,Neurology,Dr. Brown,17,57.39,32,5,No,168
+152,2024-03-31,Scheduled,Neurology,Dr. Smith,14,90.68,53,3,Yes,138
+153,2024-03-09,Scheduled,Pediatrics,Dr. Wilson,25,92.79,28,4,Yes,66
+154,2024-03-01,Emergency,Orthopedics,Dr. Brown,45,57.0,64,1,No,109
+155,2024-03-12,Scheduled,Orthopedics,Dr. Smith,44,62.62,47,2,No,176
+156,2024-03-19,Emergency,Pediatrics,Dr. Johnson,9,71.4,71,4,Yes,73
+157,2024-03-24,Scheduled,Neurology,Dr. Wilson,17,65.2,28,2,No,85
+158,2024-03-15,Scheduled,Orthopedics,Dr. Smith,21,81.16,42,2,No,166
+159,2024-03-22,Emergency,Neurology,Dr. Johnson,10,63.32,80,3,No,144
+160,2024-03-03,Emergency,Pediatrics,Dr. Wilson,8,60.89,84,4,No,103
+161,2024-03-31,Scheduled,Neurology,Dr. Brown,31,68.8,55,5,No,51
+162,2024-03-19,Emergency,Orthopedics,Dr. Brown,10,53.98,111,3,No,94
+163,2024-03-15,Scheduled,Cardiology,Dr. Wilson,12,52.87,32,1,No,115
+164,2024-03-15,Emergency,Cardiology,Dr. Davis,14,62.07,52,5,No,102
+165,2024-03-08,Scheduled,Cardiology,Dr. Johnson,9,63.93,12,2,Yes,140
+166,2024-03-25,Emergency,Pediatrics,Dr. Davis,28,76.04,37,5,Yes,172
+167,2024-03-29,Emergency,Orthopedics,Dr. Wilson,21,89.41,56,4,Yes,180
+168,2024-03-26,Emergency,Neurology,Dr. Davis,15,50.04,96,1,No,122
+169,2024-03-19,Emergency,Neurology,Dr. Smith,14,90.5,102,5,No,70
+170,2024-03-31,Emergency,General Medicine,Dr. Johnson,19,89.57,88,5,Yes,134
+171,2024-03-05,Scheduled,Cardiology,Dr. Johnson,14,74.76,51,3,Yes,86
+172,2024-03-01,Scheduled,Orthopedics,Dr. Davis,21,59.02,32,1,Yes,93
+173,2024-03-25,Emergency,Cardiology,Dr. Johnson,30,70.75,37,5,Yes,72
+174,2024-03-08,Emergency,Cardiology,Dr. Davis,44,89.13,89,1,No,121
+175,2024-03-01,Emergency,Cardiology,Dr. Davis,26,61.05,46,1,Yes,89
+176,2024-03-18,Emergency,Orthopedics,Dr. Brown,18,92.46,111,4,No,150
+177,2024-03-12,Emergency,General Medicine,Dr. Johnson,41,52.91,25,1,Yes,57
+178,2024-03-06,Emergency,Orthopedics,Dr. Smith,5,70.81,13,3,Yes,59
+179,2024-03-11,Emergency,Neurology,Dr. Wilson,39,81.66,95,3,No,72
+180,2024-03-24,Emergency,Orthopedics,Dr. Davis,22,96.47,46,5,No,167
+181,2024-03-17,Emergency,Cardiology,Dr. Smith,35,70.06,10,1,Yes,132
+182,2024-03-02,Scheduled,Orthopedics,Dr. Johnson,18,81.59,22,4,No,50
+183,2024-03-31,Scheduled,Neurology,Dr. Wilson,24,52.37,58,3,Yes,137
+184,2024-03-24,Scheduled,General Medicine,Dr. Davis,15,62.73,28,3,Yes,125
+185,2024-03-28,Emergency,Orthopedics,Dr. Smith,10,95.39,15,1,No,200
+186,2024-03-26,Emergency,Cardiology,Dr. Smith,13,67.62,38,4,Yes,121
+187,2024-03-02,Scheduled,Cardiology,Dr. Wilson,40,83.37,58,4,Yes,151
+188,2024-03-23,Scheduled,Cardiology,Dr. Davis,15,54.49,49,4,Yes,178
+189,2024-03-05,Emergency,General Medicine,Dr. Wilson,16,98.51,96,5,Yes,62
+190,2024-03-25,Emergency,Pediatrics,Dr. Smith,35,80.66,37,2,No,184
+191,2024-03-20,Emergency,Cardiology,Dr. Johnson,29,75.55,80,1,No,66
+192,2024-03-26,Scheduled,Pediatrics,Dr. Smith,7,53.68,18,1,Yes,109
+193,2024-03-09,Emergency,Neurology,Dr. Smith,14,55.1,88,4,Yes,196
+194,2024-03-17,Scheduled,Orthopedics,Dr. Brown,34,90.98,20,3,No,181
+195,2024-03-09,Scheduled,General Medicine,Dr. Wilson,27,93.06,24,4,Yes,200
+196,2024-03-04,Emergency,Cardiology,Dr. Johnson,16,91.19,108,1,Yes,167
+197,2024-03-08,Emergency,Neurology,Dr. Brown,40,82.59,13,1,No,72
+198,2024-03-16,Emergency,Pediatrics,Dr. Johnson,38,74.29,76,4,No,57
+199,2024-03-21,Emergency,Orthopedics,Dr. Davis,14,50.39,22,5,Yes,149
+200,2024-03-15,Scheduled,Orthopedics,Dr. Wilson,36,90.08,43,3,Yes,60
