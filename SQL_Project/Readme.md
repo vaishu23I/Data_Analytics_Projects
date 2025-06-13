@@ -49,8 +49,7 @@ The table `product` includes:
 
 ## 🛠 Tools Used
 
-- MySQL / SQL Server / SQLite
-- Any SQL IDE (e.g., DB Browser, MySQL Workbench)
+- MySQL
 
 ---
 
