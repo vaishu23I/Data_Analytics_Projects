@@ -24,6 +24,14 @@ The dataset contains information such as:
 - Matplotlib
 - Seaborn
 
+## 📊 Project Overview
+The analysis highlights:
+  • 🎥 Top Performing Movies based on ratings and revenue
+  • 🎭 Popular Genres across different time periods
+  • 🗓 Movie Release Trends over the years
+  • 💰 Revenue vs Budget Correlation
+  • ⭐ High-rated Movies vs Commercial Success
+  
 ## 📁 File Structure
 - `_Movies_Dataset.ipynb` — Jupyter Notebook with full analysis
 - `README.md` — Project overview and instructions
