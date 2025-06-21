@@ -56,9 +56,13 @@ This project analyzes the Superstore dataset using Power BI. The goal is to crea
 ## Superstore Project Dashboard images
 
 ![SuperStore Dashboard 1](https://github.com/user-attachments/assets/d99cd4e6-1f3b-444f-9fab-a65c60a14f54)
+
 ![SuperStore Dashboard 2](https://github.com/user-attachments/assets/9d0ec91c-4968-4d55-b91b-144a1e00be57)
+
 ![SuperStore Dashboard 3](https://github.com/user-attachments/assets/35ac7c2b-cf48-4173-9b09-d005deb1ffca)
+
 ![SuperStore Dashboard 4](https://github.com/user-attachments/assets/72daa379-29ca-45e8-8ad0-c4462ea2159b)
+
 ![SuperStore Dashboard 5](https://github.com/user-attachments/assets/f47095b2-380c-4661-abe3-48f742c028a9)
 
 
